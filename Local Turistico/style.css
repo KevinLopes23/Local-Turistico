@@ -1,0 +1,87 @@
+body {
+  background-color: #1e1e1e;
+}
+
+main {
+  width: 1120px;
+  height: 3054px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 65px;
+}
+
+* {
+  font-family: "Alice", serif;
+}
+
+.introducao {
+  font-size: 16px;
+  color: #e1624f;
+  font-weight: bold;
+}
+
+h1 {
+  color: #1b1b1b;
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+h2 {
+  color: #1b1b1b;
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.descricao-busan {
+  text-align: center;
+  color: #333333;
+}
+
+hr {
+  width: 1120px;
+  color: #d9d9d9;
+}
+
+h3 {
+  font-size: 28px;
+  color: #1b1b1b;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#introducao p {
+  font-size: 16px;
+  color: #333333;
+  margin: 0px;
+  display: flex;
+}
+
+#haedong p {
+  font-size: 16px;
+  color: #333333;
+}
+
+.bom-para {
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  font-size: 16px;
+}
+
+.coracao {
+  vertical-align: middle;
+}
+
+p.introducao {
+  margin-bottom: 0;
+}
+
+p {
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
